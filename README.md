@@ -54,7 +54,7 @@ python web_cam_pose_estimation.py
    ```
 
 ## Controls
-- **ESC**: Exit
+- **ESC**: Exit or ctrl + c
 - **Window**: Shows pose landmarks overlaid on video
 
 ## Files
